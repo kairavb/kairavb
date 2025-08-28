@@ -43,10 +43,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kairavb&show_icons=true&locale=en" alt="kairavb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairavb&" alt="kairavb99" /></p>
 
 
 <!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairavb&" alt="kairavb" /></p>
 **kairavb/kairavb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
