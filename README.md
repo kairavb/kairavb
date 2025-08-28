@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kairavb&show_icons=true&locale=en" alt="kairavb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairavb&" alt="kairavb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairavb&" alt="kairavb99" /></p>
 
 
 <!--
