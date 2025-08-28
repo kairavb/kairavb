@@ -14,15 +14,15 @@
 
 - 👯 I’m looking to collaborate on [Chef Connect](https://github.com/kairavb/chefconnect)
 
-- 👨‍💻 All of my projects are available at [www.kairav.dev](www.kairav.dev)
+- 👨‍💻 All of my projects are available at [www.kairav.dev](https://kairav.dev/)
 
-- 📝 I regularly write articles on [www.kairav.dev](www.kairav.dev)
+- 📝 I regularly write articles on [www.kairav.dev](https://kairav.dev/)
 
 - 💬 Ask me about **Linux, Astronomy, History, GeoPolitics**
 
 - 📫 How to reach me **kairavbhatia8@gmail.com**
 
-- 📄 Know about my experiences [www.kairav.dev/resume](www.kairav.dev/resume)
+- 📄 Know about my experiences [resume](https://kairav.dev/)
 
 - ⚡ Fun fact **ChatGPT said: I memorized the square root of 99 to 10 digits, ask people randomly, and when they can't answer, I say it out loud to look smart, haha.**
 
