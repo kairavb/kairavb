@@ -22,9 +22,9 @@
 
 - 📫 How to reach me **kairavbhatia8@gmail.com**
 
-- 📄 Know about my experiences [resume](https://kairav.dev/)
+- 📄 Know about my experiences [Portfolio](https://kairav.dev/)
 
-- ⚡ Fun fact **ChatGPT said: I memorized the square root of 99 to 10 digits, ask people randomly, and when they can't answer, I say it out loud to look smart, haha.**
+- ⚡ Fun fact **I memorized the square root of 99 to 10 digits, ask people randomly, and when they can't answer, I say it out loud to look smart, haha.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
