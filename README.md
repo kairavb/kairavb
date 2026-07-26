@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Kairav Bhatia</h1>
-<h3 align="center">A Linux Lover and Software Engineer from India</h3>
+<h3 align="center">A Linux Enjoyer and Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kairavb&label=Profile%20views&color=0e75b6&style=flat" alt="kairavb" /> </p>
 
